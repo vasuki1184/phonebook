@@ -20,6 +20,8 @@ POST URL:
 "phone": "91-7663456789"
 }
 
+ContactNotFound: Throws exception, if contact not found.
+
 Other assessments:
 
 (Product_Mindmap1.jpg)
