@@ -35,3 +35,8 @@ CI/CD: I'm using bamboo as a CI/CD process to build different plan for the code 
 
 Squad service ownership: I used to interact with the support issues by the customer depends on the business priority.
 
+Improvements required:
+----------------------------
+1. Hateos implementation
+2. Exception Handling
+3. Latest annotations - @GetMapping/@PostMapping/@PutMapping/@DeleteMapping
