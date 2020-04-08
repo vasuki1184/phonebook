@@ -9,7 +9,7 @@ SWAGGER API documentation URL
 http://localhost:8080/v2/api-docs?group=phonebook-api
 
 
-Phone book contacts:
+Phone book contacts: (Product_Mindmap2.jpg)
 ----------------------------
 Getting all phone book contacts: http://localhost:8080/phonebook/contacts
 Get a contact from phonebook: http://localhost:8080/phonebook/contacts/1
@@ -21,6 +21,8 @@ POST URL:
 }
 
 Other assessments:
+
+(Product_Mindmap1.jpg)
 
 Kanban, TDD & Pair Programming - These are the agile framework and techniques for the software development. 
 
